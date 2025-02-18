@@ -19,6 +19,6 @@
   "homepage": "https://github.com/MajorScruffy/delete-workflow-runs#readme",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@octokit/action": "^3.18.0"
+    "@octokit/action": "^7.0.1"
   }
 }
